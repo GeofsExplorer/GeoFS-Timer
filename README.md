@@ -18,7 +18,7 @@
 
 We're adding multi-language support to GeoFS Timer! Please help us translate:
 
-[![Translation Project](https://img.shields.io/badge/Contribute The_Translation-POEditor-blue?style=for-the-badge&logo=translate)](https://poeditor.com/join/project/5frrgfIrOV)
+[![Translation Project](https://img.shields.io/badge/Contribute the Translation-POEditor-blue?style=for-the-badge&logo=translate)](https://poeditor.com/join/project/5frrgfIrOV)
 
 Click the button above to join our translation project.
 
