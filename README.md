@@ -1,9 +1,9 @@
 # ⏱️ GeoFS Timer
 
-[![GitHub stars](https://img.shields.io/github/stars/GeoFS-hub/GeoFS-Timer?style=for-the-badge)](https://github.com/GeoFS-hub/GeoFS-Timer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/GeoFS-hub/GeoFS-Timer?style=for-the-badge)](https://github.com/GeoFS-hub/GeoFS-Timer/network)
-[![GitHub issues](https://img.shields.io/github/issues/GeoFS-hub/GeoFS-Timer?style=for-the-badge)](https://github.com/GeoFS-hub/GeoFS-Timer/issues)
-[![GitHub license](https://img.shields.io/github/license/GeoFS-hub/GeoFS-Timer?style=for-the-badge)](https://github.com/GeoFS-hub/GeoFS-Timer/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/GeofsExplorer/GeoFS-Timer?style=for-the-badge)](https://github.com/GeofsExplorer/GeoFS-Timer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GeofsExplorer/GeoFS-Timer?style=for-the-badge)](https://github.com/GeofsExplorer/GeoFS-Timer/network)
+[![GitHub issues](https://img.shields.io/github/issues/GeofsExplorer/GeoFS-Timer?style=for-the-badge)](https://github.com/GeofsExplorer/GeoFS-Timer/issues)
+[![GitHub license](https://img.shields.io/github/license/GeofsExplorer/GeoFS-Timer?style=for-the-badge)](https://github.com/GeofsExplorer/GeoFS-Timer/blob/main/LICENSE)
 
 > 🛩️ A beautiful timer tool designed for the GeoFS flight simulator
 
@@ -18,7 +18,7 @@
 
 We're adding multi-language support to GeoFS Timer! Please help us translate:
 
-[![Translation Project](https://img.shields.io/badge/Help_Translate-POEditor-blue?style=for-the-badge&logo=translate)](https://poeditor.com/join/project/5frrgfIrOV)
+[![Translation Project](https://img.shields.io/badge/Contribute The_Translation-POEditor-blue?style=for-the-badge&logo=translate)](https://poeditor.com/join/project/5frrgfIrOV)
 
 Click the button above to join our translation project.
 
@@ -34,10 +34,10 @@ Click the button above to join our translation project.
 
 ## Stars History
 
-<a href="https://www.star-history.com/#GeoFS-hub/GeoFS-Timer&Date">
+<a href="https://www.star-history.com/#GeofsExplorer/GeoFS-Timer&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GeoFS-hub/GeoFS-Timer&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GeoFS-hub/GeoFS-Timer&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GeoFS-hub/GeoFS-Timer&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GeofsExplorer/GeoFS-Timer&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GeofsExplorer/GeoFS-Timer&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GeofsExplorer/GeoFS-Timer&type=Date" />
  </picture>
 </a>
