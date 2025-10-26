@@ -26,7 +26,7 @@ Click the button above to join our translation project.
 
 ### Method 1: User Script (Recommended)
 1. Install Tampermonkey or Violentmonkey browser extension.
-2. Copy the link in main.js and paste in the browser extension.
+2. Copy the link in main.js and paste in the browser extension (Tampermonkey, ...).
 
 ### Method 2: Fn + F12
 1. Copy the code in main.js
