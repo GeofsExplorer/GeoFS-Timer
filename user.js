@@ -4,7 +4,7 @@
 // @version      Beta v0.5
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @description  Persistent GeoFS flight timer with live language switch, collapsible UI, hint adjusted, and larger current label. Made by GeofsExplorer
-// @author       GeoFS Explorer
+// @author       GeoFS Explorer & 31124呀
 // @match        http://*/geofs.php*
 // @match        https://*/geofs.php*
 // @updateURL    https://raw.githubusercontent.com/GeofsExplorer/GeoFS-Timer/main/user.js
